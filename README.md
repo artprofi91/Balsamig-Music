@@ -1,4 +1,4 @@
-# Balsamig-Music
+# Balsamiq-Music
 
 ![1](https://user-images.githubusercontent.com/28790452/30461304-08f5e23c-9983-11e7-9de5-e6d5f1471f98.gif)
 
